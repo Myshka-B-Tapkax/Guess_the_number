@@ -13,5 +13,35 @@
 - Модуль `random`
 - Функции, циклы, условия
 
+## 📦 Пример работы
+```
+Hello! Welcome to the number guessing game.
+Try to guess the hidden number!
+ 
+Enter a number from 1 to 100. 55
+You didn't guess right, the number is higher. Try again.
+
+Enter a number from 1 to 100. 75
+You didn't guess right, the number is higher. Try again.
+
+Enter a number from 1 to 100. 85
+You didn't guess right, the number is higher. Try again.
+
+Enter a number from 1 to 100. 95
+You didn't guess right, the number is higher. Try again.
+
+Enter a number from 1 to 100. 98
+You didn't guess right, the number is smaller. Try again.
+
+Enter a number from 1 to 100. 97 
+You didn't guess right, the number is smaller. Try again.
+
+Enter a number from 1 to 100. 96
+
+You guessed it! Well done!
+You guessed correctly on the 7 try. The number was 96.
+Thanks for the game! :)
+```
+
 ## 👤 Автор
 [Myshka-B-Tapkax](https://github.com/Myshka-B-Tapkax)
